@@ -1,3 +1,4 @@
 # Hello, world!
 
-I student in Netology.
+I'm student in Netology.
+
